@@ -27,17 +27,17 @@
 </p>
 
 ---
-
 ### 📊 GitHub Analysis:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baole405&show_icons=true&theme=nord" alt="Bao's GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baole405&theme=nord" alt="Bao's Streak" width="400" />
+  <!-- Biểu đồ hoạt động 12 tháng chuyên nghiệp -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baole405&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baole405&layout=compact&theme=nord" alt="Top Langs" width="300" />
+  <!-- GitHub Streak cực kỳ ổn định -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baole405&theme=react&bg_color=0d1117&hide_border=true" alt="Bao's Streak" width="48%" />
+  <!-- Thẻ tóm tắt năng lực (thay thế cho thẻ stats cũ hay lỗi) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baole405&theme=react" alt="Bao's Summary" width="48%" />
 </p>
-
 ---
 
 ### 📫 Connect with me:
