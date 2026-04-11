@@ -5,7 +5,7 @@
 </p>
 
 ### 💫 About Me:
-- 🚀 I'm a **Full Stack Developer (Junior/Intern)** focusing on building high-performance, premium web applications.
+- 🚀 I'm a **Full Stack Developer** focusing on building high-performance, premium web applications.
 - 🎓 Final year student at **FPT University** (Software Engineering).
 - 🛠️ Currently exploring **React 19**, **NestJS 11**, and **Nx Monorepo** architectures.
 - ⚡ Fun fact: I'm a **100% Coffee person** who loves turning caffeine into clean code.
